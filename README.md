@@ -45,7 +45,7 @@ The Wumpus World simulation provides a dynamic environment with the ability to c
 
 ### Configuring Pits
 
-You can control the likelihood of having multiple pits by adjusting the `max` parameter in the `place_objects` method of the `WumpusWorld` class in the `wumpus_world.py` file. The `max` parameter determines the maximum number of pits that can be placed in the environment.
+You can control the likelihood of having multiple pits by adjusting the `max` parameter in the `place_objects` method of the `WumpusWorld` class in the `WumpusGameWorld.py` file. The `max` parameter determines the maximum number of pits that can be placed in the environment.
 
 ```python
 class WumpusWorld:
