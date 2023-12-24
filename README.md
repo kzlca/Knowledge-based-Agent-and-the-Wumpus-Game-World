@@ -6,7 +6,7 @@ Wumpus World is a classic artificial intelligence problem where an agent navigat
 
 - **Dynamic Environment:** The Wumpus World environment is dynamically generated with a random placement of the Wumpus, pits, and gold, providing a unique challenge in each playthrough.
 
-- **Sensory Perception:** The agent can sense the presence of stench, breeze, and glitter in adjacent cells, allowing it to make informed decisions about its actions.
+- **Sensory Perception:** The agent can sense the presence of stench, breeze, and glitter in cells, allowing it to make informed decisions about its actions.
 
 - **Intelligent Decision Making:** The agent uses a knowledge base to keep track of visited cells and sensory information, making strategic decisions to navigate the environment safely and achieve its goal.
 
