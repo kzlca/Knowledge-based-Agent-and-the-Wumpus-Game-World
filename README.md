@@ -23,4 +23,21 @@ Wumpus World is a classic artificial intelligence problem where an agent navigat
 
 <img src="https://github.com/kzlca/knowledge-based-agent-AI-for-Wumpus-game-world/blob/main/Drawing.sketchpad.png" width="50%" height="50%">
 
+## Customization
+
+The Wumpus World simulation offers flexibility in customizing the environment to suit your preferences. Here are the main parameters you can adjust:
+
+- **Grid Size:** The size of the grid can be modified to create larger or smaller environments. The default grid size is 4x4. To change the grid size, modify the `GRID_SIZE` variable in the `wumpus_world.py` file.
+
+    ```python
+    GRID_SIZE = 4  # Change this value to your desired grid size (e.g., GRID_SIZE = 6)
+    ```
+
+- **Cell Size:** The size of each cell in the grid determines the visual representation of the environment. Adjust the `CELL_SIZE` variable in the `wumpus_world.py` file to change the cell size. Larger cell sizes may require adjustments to the overall screen size.
+
+    ```python
+    CELL_SIZE = 100  # Change this value to your desired cell size (e.g., CELL_SIZE = 80)
+    ```
+
+Feel free to experiment with different grid sizes and cell sizes to tailor the Wumpus World simulation to your preferences.
 
