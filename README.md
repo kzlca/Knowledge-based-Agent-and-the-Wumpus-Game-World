@@ -19,7 +19,7 @@ Wumpus World is a classic artificial intelligence problem where an agent navigat
    pip install pygame
 2. Run the Wumpus World simulation:
 3. ```bash
-   python wumpus_world.py
+   python WumpusGameWorld.py
 
 <img src="https://github.com/kzlca/knowledge-based-agent-AI-for-Wumpus-game-world/blob/main/Drawing.sketchpad.png" width="50%" height="50%">
 
